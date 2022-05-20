@@ -1,0 +1,11 @@
+button{
+  width: 90%;
+  margin: 4px !important;
+  color: #482F66 !important;
+}
+.form-control[readonly] {
+  margin-top: 4px;
+  width: 96%;
+  margin-left: 6px;
+
+}
